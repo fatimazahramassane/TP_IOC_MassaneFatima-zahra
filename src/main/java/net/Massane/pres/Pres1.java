@@ -1,6 +1,5 @@
 package net.Massane.pres;
 
-import net.Massane.dao.DaoImpl;
 import net.Massane.metier.MetierImpl;
 import net.Massane.net.Massane.ext.DaoImplV2;
 

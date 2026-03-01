@@ -1,0 +1,2 @@
+net.Massane.dao.DaoImpl
+net.Massane.metie.MetierImpl
