@@ -1,2 +1,2 @@
-net.Massane.ext.DaoImplV2
-net.Massane.metie.MetierImpl
+dao.DaoImpl
+metier.MetierImpl
