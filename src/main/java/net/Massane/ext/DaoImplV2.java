@@ -1,4 +1,4 @@
-package net.Massane.net.Massane.ext;
+package net.Massane.ext;
 import net.Massane.dao.IDao;
 public class DaoImplV2 implements IDao {
     @Override

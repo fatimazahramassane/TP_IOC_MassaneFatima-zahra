@@ -1,7 +1,7 @@
 package net.Massane.pres;
 
 import net.Massane.metier.MetierImpl;
-import net.Massane.net.Massane.ext.DaoImplV2;
+import net.Massane.ext.DaoImplV2;
 
 public class Pres1 {
     public static void main(String[] args){
